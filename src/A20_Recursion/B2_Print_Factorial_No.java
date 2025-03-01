@@ -12,4 +12,5 @@ public class B2_Print_Factorial_No {
 
         return n * factorial(n - 1);
     }
+
 }
